@@ -12,5 +12,6 @@ console.log(factorial(1));
 console.log(factorial(5));
 console.log(factorial(20));
 console.log(factorial(2));
+console.log(factorial(10));
 
 // Big O = O(n)
